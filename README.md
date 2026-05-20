@@ -1,1 +1,3 @@
-# kan-it-2324-p-005-azrin
+my name :azrin rizvi
+course :hndit
+This is my git lab work
